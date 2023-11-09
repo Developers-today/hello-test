@@ -8,7 +8,7 @@
         e.preventDefault();
         $(this).ekkoLightbox();
       });
-  
+  console.log("KKKK");
       // var foot=document.getElementById("footer")
       // Get the footer element by its ID
       const footer = document.getElementById('footer');

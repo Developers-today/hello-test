@@ -1,2 +1,2 @@
 print("KKKK")
-print("I love u")
+print("I lovemtttt u")
